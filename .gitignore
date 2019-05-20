@@ -1,4 +1,5 @@
 __pycache__
 *.pc
 *.pyc
+.vscode
 
